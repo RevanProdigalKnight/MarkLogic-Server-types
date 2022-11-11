@@ -1,0 +1,5 @@
+{
+	"description": "TypeScript definitions for MarkLogic Server built-ins",
+	"name": "marklogic-server-typescript-definitions",
+	"version": "0.0.1-alpha"
+}
